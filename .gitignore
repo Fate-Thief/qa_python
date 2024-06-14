@@ -1,0 +1,8 @@
+/env
+/pytest_cache
+/README.md
+.idea
+.build
+.target
+/__pycache__
+/fixtures/__pycache__
