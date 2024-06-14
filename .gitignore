@@ -1,0 +1,7 @@
+/env
+/pytest_cache
+.idea
+.build
+.target
+/__pycache__
+/fixtures/__pycache__
